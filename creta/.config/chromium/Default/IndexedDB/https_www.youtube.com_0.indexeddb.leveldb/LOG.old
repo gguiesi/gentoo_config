@@ -1,8 +1,0 @@
-2020/10/21-20:17:31.963 31d0 Reusing MANIFEST /home/gguiesi/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/10/21-20:17:31.964 31d0 Recovering log #15
-2020/10/21-20:17:31.964 31d0 Reusing old log /home/gguiesi/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000015.log 
-2020/10/21-20:17:37.579 1282 Level-0 table #20: started
-2020/10/21-20:17:37.584 1282 Level-0 table #20: 0 bytes OK
-2020/10/21-20:17:37.597 1282 Delete type=0 #15
-2020/10/21-20:17:37.597 1282 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/10/21-20:17:37.597 1282 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

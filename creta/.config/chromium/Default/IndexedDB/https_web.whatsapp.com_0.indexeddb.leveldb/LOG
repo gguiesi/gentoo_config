@@ -1,7 +1,0 @@
-2020/10/14-19:07:26.714 22f4 Reusing MANIFEST /home/gguiesi/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/10/14-19:07:26.714 22f4 Recovering log #3
-2020/10/14-19:07:26.777 22f4 Reusing old log /home/gguiesi/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000003.log 
-2020/10/14-19:29:57.161 1d4c Level-0 table #5: started
-2020/10/14-19:29:57.182 1d4c Level-0 table #5: 309296 bytes OK
-2020/10/14-19:29:57.186 1d4c Delete type=0 #3
-2020/10/14-19:29:57.187 1d4c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

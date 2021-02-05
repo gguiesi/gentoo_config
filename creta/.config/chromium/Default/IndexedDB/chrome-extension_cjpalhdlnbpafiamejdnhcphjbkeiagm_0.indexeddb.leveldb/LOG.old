@@ -1,8 +1,0 @@
-2020/10/23-17:56:05.817 2fac Reusing MANIFEST /home/gguiesi/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
-2020/10/23-17:56:05.817 2fac Recovering log #184
-2020/10/23-17:56:05.817 2fac Reusing old log /home/gguiesi/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000184.log 
-2020/10/23-17:56:07.867 3076 Level-0 table #189: started
-2020/10/23-17:56:07.868 3076 Level-0 table #189: 0 bytes OK
-2020/10/23-17:56:07.875 3076 Delete type=0 #184
-2020/10/23-17:56:07.887 3076 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/10/23-17:56:07.887 3076 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

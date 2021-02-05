@@ -1,5 +1,0 @@
-2020/10/14-19:15:08.320 23e2 Reusing MANIFEST /home/gguiesi/.config/chromium/Default/IndexedDB/https_www.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/10/14-19:15:18.591 1d4c Level-0 table #5: started
-2020/10/14-19:15:18.596 1d4c Level-0 table #5: 1530 bytes OK
-2020/10/14-19:15:18.602 1d4c Delete type=0 #3
-2020/10/14-19:15:18.602 1d4c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
