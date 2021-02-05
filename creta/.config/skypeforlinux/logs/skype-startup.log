@@ -1,4 +1,0 @@
-(electron) The default value of app.allowRendererProcessReuse is deprecated, it is currently "false".  It will change to be "true" in Electron 9.  For more information please check https://github.com/electron/electron/issues/18397
-Error occurred in handler for 'keychain:get-password': Error: No stored credentials fetched from keytar.
-    at /opt/skypeforlinux/resources/app.asar/main.js:2:658420
-    at async electron/js2c/browser_init.js:6048:30
