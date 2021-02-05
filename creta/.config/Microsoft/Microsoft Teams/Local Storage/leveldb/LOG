@@ -1,0 +1,26 @@
+2021/01/26-13:32:49.110 1bca Reusing MANIFEST /home/gguiesi/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/01/26-13:32:49.111 1bca Recovering log #6
+2021/01/26-13:32:49.186 1bca Level-0 table #9: started
+2021/01/26-13:32:49.385 1bca Level-0 table #9: 474766 bytes OK
+2021/01/26-13:32:49.479 1bca Delete type=0 #6
+2021/01/26-13:34:49.485 21f3 Level-0 table #12: started
+2021/01/26-13:34:49.490 21f3 Level-0 table #12: 70125 bytes OK
+2021/01/26-13:34:49.493 21f3 Delete type=0 #10
+2021/01/26-14:14:39.669 21f3 Level-0 table #14: started
+2021/01/26-14:14:39.673 21f3 Level-0 table #14: 48914 bytes OK
+2021/01/26-14:14:39.676 21f3 Delete type=0 #11
+2021/01/26-14:54:10.081 21f3 Level-0 table #16: started
+2021/01/26-14:54:10.084 21f3 Level-0 table #16: 42120 bytes OK
+2021/01/26-14:54:10.088 21f3 Delete type=0 #13
+2021/01/26-14:54:10.089 21f3 Compacting 4@0 + 1@1 files
+2021/01/26-14:54:10.130 21f3 Generated table #17@0: 69 keys, 551272 bytes
+2021/01/26-14:54:10.130 21f3 Compacted 4@0 + 1@1 files => 551272 bytes
+2021/01/26-14:54:10.133 21f3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/26-14:54:10.134 21f3 Delete type=2 #9
+2021/01/26-14:54:10.134 21f3 Delete type=2 #14
+2021/01/26-14:54:10.134 21f3 Delete type=2 #12
+2021/01/26-14:54:10.134 21f3 Delete type=2 #16
+2021/01/26-14:54:10.134 21f3 Delete type=2 #7
+2021/01/26-15:34:10.002 21f3 Level-0 table #19: started
+2021/01/26-15:34:10.006 21f3 Level-0 table #19: 46148 bytes OK
+2021/01/26-15:34:10.008 21f3 Delete type=0 #15

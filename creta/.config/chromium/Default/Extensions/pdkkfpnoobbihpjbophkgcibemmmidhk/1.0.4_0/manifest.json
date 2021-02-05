@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.moosti.com"
+      },
+      "urls": [ "http://www.moosti.com/" ]
+   },
+   "description": "Moosti is a simple time tracker to use with - The Pomodoro Technique® -. This is the old pomodoro.me",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQD0KRC0PovTZnRTmnPgPOf5PqnmrLGbD8FulURjxGAoMMBiR+7G2zpHAusdCAbcCuhQHKaJNkNswvf3mP0DdZK5JuXsF6+rmOLk2TKOxkVV9myiWTh7+tXRPMCIYd+6m9Rc+8khTQx/7SETS75JhRWH0WdRn4ShMPLxQ5+xO8ouxwIDAQAB",
+   "manifest_version": 2,
+   "name": "Moosti",
+   "permissions": [ "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.4"
+}

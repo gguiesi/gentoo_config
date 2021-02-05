@@ -1,0 +1,9 @@
+x11-misc/barrier
+net-im/skypeforlinux
+net-im/zoom
+net-im/discord-bin
+net-im/teams
+x11-misc/urxvtconfig ~amd64
+>=x11-terms/lilyterm-0.9.9.4-r2::gentoo ~amd64
+=gui-libs/display-manager-init-1.0 ~amd64
+media-tv/stremio-shell ~x86

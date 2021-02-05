@@ -1,0 +1,45 @@
+{
+   "background": {
+      "page": "html/background.html"
+   },
+   "browser_action": {
+      "browser_style": true,
+      "default_icon": "img/icon48.png",
+      "default_popup": "html/welcome.html",
+      "default_title": "__MSG_name__"
+   },
+   "chrome_settings_overrides": {
+      "homepage": "https://www.qwant.com/?client=ext-chrome-hp",
+      "search_provider": {
+         "encoding": "UTF-8",
+         "favicon_url": "https://www.qwant.com/favicon.ico",
+         "is_default": true,
+         "keyword": "www.qwant.com",
+         "name": "Qwant",
+         "search_url": "https://www.qwant.com/?q={searchTerms}&client=ext-chrome-sb",
+         "suggest_url": "https://api.qwant.com/api/suggest/?q={searchTerms}&client=opensearch&lang=__MSG_locale__"
+      }
+   },
+   "content_scripts": [ {
+      "css": [ "css/no-popin.css" ],
+      "js": [ "js/events.js", "js/contentScript.js" ],
+      "matches": [ "https://*.qwant.com/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png",
+      "48": "img/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5S5av+U0jwIaTu6lK1XZ5IQjqQ+N56cEussDEot0fK8BqPnsJZn9fDfeUTg9lWQBZTtbyNWVLpRXJRTgKFJORCRUPiOpM8v5+OpPOrMQKLQnzJMAtkJi5UI3L3LHpA0IwrlDCtRoQQBhzjwqf5GuImLJu6/qPuhohHpHDlo8h3lrgIVfDMTkR4gWOmO1z5iH0ngu3+9cj+ZEbQn9KtXZOp01PX8hNVTdpR6Z+n+kmK5rVsAXsTSGsm97xBOrdk5UllZR9SY0qofIusL8r2R7U7Df9PWtkWfQSWUZh4xk4+ywwJXK1PDs6+VcqKAgFVVUm9KK1p+J1u89yqNf9lK8NwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "omnibox": {
+      "keyword": "q"
+   },
+   "permissions": [ "contextMenus", "storage", "activeTab", "privacy", "https://*.qwant.com/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5.0.1",
+   "web_accessible_resources": [ "js/inject_login.js", "js/inject_logout.js" ]
+}

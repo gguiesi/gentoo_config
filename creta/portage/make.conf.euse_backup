@@ -1,0 +1,46 @@
+# These settings were set by the catalyst build script that automatically
+# built this stage.
+# Please consult /usr/share/portage/config/make.conf.example for a more
+# detailed example.
+COMMON_FLAGS="-mtune=generic -O2 -pipe"
+CFLAGS="${COMMON_FLAGS}"
+CXXFLAGS="${COMMON_FLAGS}"
+FCFLAGS="${COMMON_FLAGS}"
+FFLAGS="${COMMON_FLAGS}"
+MAKEOPTS="-j3 -l2"
+#ACCEPT_KEYWORDS="amd64 ~amd64"
+
+# configuration for ccache
+FEATURES="ccache"
+CCACHE_DIR="/var/cache/ccache"
+
+# configuration for distcc use
+#MAKEOPTS="-j7 -l2"
+#FEATURES="distcc ccache"
+
+CHOST="x86_64-pc-linux-gnu"
+CPU_FLAGS_X86="mmx mmxext sse sse2"
+
+USE="bindist dvd pulseaudio alsa elogind zsh-completion dbus -consolekit \
+     -systemd -kde -qt4 -gnome acl openssl redistributable savedconfig"
+
+VIDEO_CARDS="radeon"
+
+L10N="en-US en pt-BR"
+
+# NOTE: This stage was built with the bindist Use flag enabled
+PORTDIR="/var/db/repos/gentoo"
+DISTDIR="/var/cache/distfiles"
+PKGDIR="/var/cache/binpkgs"
+
+# This sets the language of build output to English.
+# Please keep this setting intact when reporting bugs.
+LC_MESSAGES=C
+
+GENTOO_MIRRORS="https://gentoo.c3sl.ufpr.br/ http://gentoo.c3sl.ufpr.br/ rsync://gentoo.c3sl.ufpr.br/gentoo/ https://gentoo.osuosl.org/ http://www.gtlib.gatech.edu/pub/gentoo/ rsync://rsync.gtlib.gatech.edu/gentoo"
+GRUB_PLATFORMS="efi-64"
+
+# speedup 
+PORTAGE_NICENESS=1
+EMERGE_DEFAULT_OPTS="--jobs=3 --load-average=2"
+FEATURES="${FEATURES} parallel-install"

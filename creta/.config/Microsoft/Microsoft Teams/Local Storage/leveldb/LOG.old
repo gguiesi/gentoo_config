@@ -1,0 +1,9 @@
+2021/01/21-11:59:05.474 2f2e Reusing MANIFEST /home/gguiesi/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/01/21-11:59:05.474 2f2e Recovering log #3
+2021/01/21-11:59:05.474 2f2e Reusing old log /home/gguiesi/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/000003.log 
+2021/01/21-12:01:05.475 30b4 Level-0 table #5: started
+2021/01/21-12:01:05.480 30b4 Level-0 table #5: 82235 bytes OK
+2021/01/21-12:01:05.484 30b4 Delete type=0 #3
+2021/01/21-12:42:06.705 30b4 Level-0 table #7: started
+2021/01/21-12:42:06.711 30b4 Level-0 table #7: 57278 bytes OK
+2021/01/21-12:42:06.717 30b4 Delete type=0 #4

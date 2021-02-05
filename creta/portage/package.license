@@ -1,0 +1,23 @@
+# required by sys-kernel/genkernel-4.1.0-r2::gentoo[firmware]
+# required by sys-kernel/genkernel (argument)
+>=sys-kernel/linux-firmware-20200817 linux-fw-redistributable no-source-code
+# required by sys-firmware/b43legacy-firmware (argument)
+>=sys-firmware/b43legacy-firmware-3.130.20.0 Broadcom
+# required by sys-firmware/b43-firmware (argument)
+=sys-firmware/b43-firmware-5.100.138 Broadcom
+# required by app-arch/unrar (argument)
+=app-arch/unrar-5.9.4 unRAR
+# required by skypeforlinux
+>=net-im/skypeforlinux-8.65.0.78 Skype-TOS
+# required by zoom
+>=net-im/zoom-5.3.472687.1012 all-rights-reserved
+# required by discord
+>=net-im/discord-bin-0.0.12 all-rights-reserved
+# required by teams
+>=net-im/teams-1.3.00.25560 ms-teams-pre
+# required by x11-base/xorg-x11-7.4-r3::gentoo[fonts]
+# required by xorg-x11 (argument)
+>=media-fonts/font-bh-ttf-1.0.3-r2 bh-luxi
+# required by x11-base/xorg-x11-7.4-r3::gentoo[fonts]
+# required by xorg-x11 (argument)
+>=media-fonts/font-bh-type1-1.0.3-r2 bh-luxi

@@ -1,0 +1,13 @@
+2021/01/21-11:59:43.441 2f32 Reusing MANIFEST /home/gguiesi/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/21-11:59:55.589 3032 Level-0 table #5: started
+2021/01/21-11:59:55.667 3032 Level-0 table #5: 1234310 bytes OK
+2021/01/21-11:59:55.672 3032 Delete type=0 #3
+2021/01/21-12:03:56.685 3032 Level-0 table #7: started
+2021/01/21-12:03:56.973 3032 Level-0 table #7: 1215795 bytes OK
+2021/01/21-12:03:56.981 3032 Delete type=0 #4
+2021/01/21-12:08:02.535 3032 Compacting 1@1 + 1@2 files
+2021/01/21-12:08:02.635 3032 Generated table #8@1: 7715 keys, 1511188 bytes
+2021/01/21-12:08:02.635 3032 Compacted 1@1 + 1@2 files => 1511188 bytes
+2021/01/21-12:08:02.639 3032 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/21-12:08:02.640 3032 Delete type=2 #5
+2021/01/21-12:08:02.640 3032 Delete type=2 #7

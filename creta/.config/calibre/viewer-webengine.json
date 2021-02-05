@@ -1,0 +1,126 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAAAAAAAEgAAB38AAAQkAAAAAgAAABIAAAd9AAAEIgAAAAAAAAAAB4AAAAACAAAAEgAAB30AAAQi"
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAkwD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAABgAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOQA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAMYA////AAAHfAAABBEAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "book_scrollbar": true,
+    "controls_help_shown_count": 2,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "key": "/home/gguiesi/Documents/study/courses/linear algebra/LAFF/Week3.pdf",
+        "pathtoebook": "/home/gguiesi/Documents/study/courses/linear algebra/LAFF/Week3.pdf",
+        "timestamp": "2020-09-15T10:35:47.725Z",
+        "title": "Week3"
+      },
+      {
+        "key": "/home/gguiesi/Documents/study/courses/linear algebra/LAFF/Week2.pdf",
+        "pathtoebook": "/home/gguiesi/Documents/study/courses/linear algebra/LAFF/Week2.pdf",
+        "timestamp": "2020-09-13T20:46:07.827Z",
+        "title": "Week2"
+      },
+      {
+        "authors": [
+          "Rodrigo F Mello"
+        ],
+        "key": "/home/gguiesi/Documents/ebooks/data sciency/Rodrigo F Mello/Machine Learning_ A Practical Approach on the Statistical Learning Theory (7)/Machine Learning_ A Practical Approach on - Rodrigo F Mello.pdf",
+        "pathtoebook": "/home/gguiesi/Documents/ebooks/data sciency/Rodrigo F Mello/Machine Learning_ A Practical Approach on the Statistical Learning Theory (7)/Machine Learning_ A Practical Approach on - Rodrigo F Mello.pdf",
+        "timestamp": "2020-09-12T23:10:23.195Z",
+        "title": "Machine Learning  A Practical Approach on"
+      },
+      {
+        "authors": [
+          "Aurélien Géron"
+        ],
+        "key": "/home/gguiesi/Documents/ebooks/data sciency/Aurelien Geron/Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition (1)/Hands-on Machine Learning with Scikit-Lear - Aurelien Geron.epub",
+        "pathtoebook": "/home/gguiesi/Documents/ebooks/data sciency/Aurelien Geron/Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition (1)/Hands-on Machine Learning with Scikit-Lear - Aurelien Geron.epub",
+        "timestamp": "2020-09-08T22:37:39.177Z",
+        "title": "Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition"
+      },
+      {
+        "authors": [
+          "Aurélien Géron"
+        ],
+        "key": "/home/gguiesi/Documents/ebooks/data sciency/Aurelien Geron/Hands-On Machine Learning with Scikit-Learn and TensorFlow_ Concepts, Tools, and Techniques to B (2)/Hands-On Machine Learning with Scikit-Lear - Aurelien Geron.pdf",
+        "pathtoebook": "/home/gguiesi/Documents/ebooks/data sciency/Aurelien Geron/Hands-On Machine Learning with Scikit-Learn and TensorFlow_ Concepts, Tools, and Techniques to B (2)/Hands-On Machine Learning with Scikit-Lear - Aurelien Geron.pdf",
+        "timestamp": "2020-09-08T22:36:29.890Z",
+        "title": "Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems"
+      },
+      {
+        "authors": [
+          "David Spiegelhalter"
+        ],
+        "key": "/home/gguiesi/Documents/ebooks/data sciency/David Spiegelhalter/The Art of Statistics_ Learning From Data (3)/The Art of Statistics_ Learning From Data - David Spiegelhalter.epub",
+        "pathtoebook": "/home/gguiesi/Documents/ebooks/data sciency/David Spiegelhalter/The Art of Statistics_ Learning From Data (3)/The Art of Statistics_ Learning From Data - David Spiegelhalter.epub",
+        "timestamp": "2020-09-08T22:35:41.613Z",
+        "title": "The Art of Statistics: Learning From Data (Pelican Books)"
+      },
+      {
+        "authors": [
+          "Chirag Shah"
+        ],
+        "key": "/home/gguiesi/Documents/ebooks/data sciency/Chirag Shah/A Hands-On Introduction to Data Science (4)/A Hands-On Introduction to Data Science - Chirag Shah.pdf",
+        "pathtoebook": "/home/gguiesi/Documents/ebooks/data sciency/Chirag Shah/A Hands-On Introduction to Data Science (4)/A Hands-On Introduction to Data Science - Chirag Shah.pdf",
+        "timestamp": "2020-09-08T22:35:09.812Z",
+        "title": "A Hands-On Introduction to Data Science"
+      },
+      {
+        "authors": [
+          "Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong"
+        ],
+        "key": "/home/gguiesi/Documents/ebooks/data sciency/Marc Peter Deisenroth/Mathematics for Machine Learning (5)/Mathematics for Machine Learning - Marc Peter Deisenroth.pdf",
+        "pathtoebook": "/home/gguiesi/Documents/ebooks/data sciency/Marc Peter Deisenroth/Mathematics for Machine Learning (5)/Mathematics for Machine Learning - Marc Peter Deisenroth.pdf",
+        "timestamp": "2020-09-08T22:33:23.485Z",
+        "title": "Mathematics for Machine Learning"
+      },
+      {
+        "authors": [
+          "Aurélien Géron"
+        ],
+        "key": "/home/gguiesi/Documents/ebooks/data sciency/Aurelien Geron/Hands-On Machine Learning With Scikit-Learn, Keras, and TensorFlow_ Concepts, Tools, and Techniq (6)/Hands-On Machine Learning With Scikit-Lear - Aurelien Geron.epub",
+        "pathtoebook": "/home/gguiesi/Documents/ebooks/data sciency/Aurelien Geron/Hands-On Machine Learning With Scikit-Learn, Keras, and TensorFlow_ Concepts, Tools, and Techniq (6)/Hands-On Machine Learning With Scikit-Lear - Aurelien Geron.epub",
+        "timestamp": "2020-09-08T22:31:41.039Z",
+        "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"
+      },
+      {
+        "authors": [
+          "A Hands-On Introduction to Data Science-Cambridge University Press (2020)"
+        ],
+        "key": "/home/gguiesi/Downloads/Chirag Shah - A Hands-On Introduction to Data Science-Cambridge University Press (2020).pdf",
+        "pathtoebook": "/home/gguiesi/Downloads/Chirag Shah - A Hands-On Introduction to Data Science-Cambridge University Press (2020).pdf",
+        "timestamp": "2020-09-08T22:18:59.240Z",
+        "title": "Chirag Shah"
+      },
+      {
+        "key": "/home/gguiesi/Documents/study/courses/linear algebra/LAFF/Week1.pdf",
+        "pathtoebook": "/home/gguiesi/Documents/study/courses/linear algebra/LAFF/Week1.pdf",
+        "timestamp": "2020-09-04T11:11:57.093Z",
+        "title": "Week1"
+      },
+      {
+        "key": "/home/gguiesi/Documents/study/courses/linear algebra/LAFF/Week0.pdf",
+        "pathtoebook": "/home/gguiesi/Documents/study/courses/linear algebra/LAFF/Week0.pdf",
+        "timestamp": "2020-09-01T11:19:46.025Z",
+        "title": "Week0"
+      },
+      {
+        "key": "/home/gguiesi/Documents/study/courses/linear algebra/LAFF-2.0xM/1521Instructions.pdf",
+        "pathtoebook": "/home/gguiesi/Documents/study/courses/linear algebra/LAFF-2.0xM/1521Instructions.pdf",
+        "timestamp": "2020-09-01T10:53:53.999Z",
+        "title": "1521Instructions"
+      }
+    ]
+  }
+}

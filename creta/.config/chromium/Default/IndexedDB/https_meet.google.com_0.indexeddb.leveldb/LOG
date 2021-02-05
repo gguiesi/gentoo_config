@@ -1,0 +1,7 @@
+2020/09/27-18:23:15.870 107d Reusing MANIFEST /home/gguiesi/.config/chromium/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/27-18:23:15.871 107d Recovering log #3
+2020/09/27-18:23:15.873 107d Reusing old log /home/gguiesi/.config/chromium/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000003.log 
+2020/09/27-18:23:22.361 11ed Level-0 table #5: started
+2020/09/27-18:23:22.367 11ed Level-0 table #5: 827 bytes OK
+2020/09/27-18:23:22.381 11ed Delete type=0 #3
+2020/09/27-18:23:22.385 11ed Manual compaction at level-0 from (begin) .. (end); will stop at (end)

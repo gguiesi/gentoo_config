@@ -1,0 +1,12 @@
+2020/11/28-10:33:28.872 20e9 Reusing MANIFEST /home/gguiesi/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/11/28-10:33:28.872 20e9 Recovering log #14
+2020/11/28-10:33:28.921 20e9 Reusing old log /home/gguiesi/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/000014.log 
+2020/11/28-10:45:07.721 2288 Level-0 table #19: started
+2020/11/28-10:45:07.844 2288 Level-0 table #19: 1688233 bytes OK
+2020/11/28-10:45:07.850 2288 Delete type=0 #14
+2020/11/28-11:28:56.979 2288 Compacting 1@1 + 1@2 files
+2020/11/28-11:28:57.157 2288 Generated table #20@1: 7240 keys, 1339003 bytes
+2020/11/28-11:28:57.157 2288 Compacted 1@1 + 1@2 files => 1339003 bytes
+2020/11/28-11:28:57.167 2288 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/28-11:28:57.170 2288 Delete type=2 #19
+2020/11/28-11:28:57.170 2288 Delete type=2 #16

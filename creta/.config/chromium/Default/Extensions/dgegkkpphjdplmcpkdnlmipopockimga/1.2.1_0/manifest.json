@@ -1,0 +1,35 @@
+{
+   "description": "Minimal Gray theme, the colours are in keeping with the Adobe Creative Suite.",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmOl+nSwKbKN/jHY5SpMbmHCmZk5vcZMOilIuJ148N57m5+8c2oVjidU2vWVneo9s6xnkc6vbe12tI2NAXY3wH4rg4cRajd1gLAFAdhz2uM7ObJVL0CjP9wXKZZG9RZU5GVWi5SJgvCDrcJOJG3FyVznEnmz9MVdj8kxaNonG4PtIpwsIiQ5UG2csfCeBWZvhcM3hrPr7XAYmGqgOHM35gSOQeI9xmH/Yi5CGuMg8E6waa0+vaJOz9jjx/if4d+LGyynq/2naWEqpTSA0KyHCiha0r9FY6aKin0NpJv9kK1fR96uYb5G2luWqDYDW16fbTLChtTEb4tPQIcFLOSRafwIDAQAB",
+   "manifest_version": 2,
+   "name": "Minimal Gray",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 194, 194, 194 ],
+         "button_background": [ 77, 77, 77, 1 ],
+         "frame": [ 66, 66, 66 ],
+         "frame_inactive": [ 77, 77, 77 ],
+         "ntp_background": [ 66, 66, 66 ],
+         "ntp_text": [ 194, 194, 194 ],
+         "tab_background_text": [ 194, 194, 194 ],
+         "tab_text": [ 194, 194, 194 ],
+         "toolbar": [ 77, 77, 77 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_frame_inactive": "images/theme_tab_background.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 0, 0, 0.76 ],
+         "frame_inactive": [ 0, 0, 0.53 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.1"
+}

@@ -1,0 +1,8 @@
+2020/10/24-09:52:17.468 6ec4 Reusing MANIFEST /home/gguiesi/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/24-09:52:17.469 6ec4 Recovering log #188
+2020/10/24-09:52:17.469 6ec4 Reusing old log /home/gguiesi/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000188.log 
+2020/10/24-09:52:19.484 6f67 Level-0 table #192: started
+2020/10/24-09:52:19.484 6f67 Level-0 table #192: 0 bytes OK
+2020/10/24-09:52:19.489 6f67 Delete type=0 #188
+2020/10/24-09:52:19.490 6f67 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/24-09:52:19.490 6f67 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

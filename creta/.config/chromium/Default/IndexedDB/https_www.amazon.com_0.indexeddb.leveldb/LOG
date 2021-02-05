@@ -1,0 +1,5 @@
+2020/10/15-11:53:30.512 27ae Reusing MANIFEST /home/gguiesi/.config/chromium/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/15-11:53:40.019 1077 Level-0 table #5: started
+2020/10/15-11:53:40.022 1077 Level-0 table #5: 1338 bytes OK
+2020/10/15-11:53:40.026 1077 Delete type=0 #3
+2020/10/15-11:53:40.026 1077 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

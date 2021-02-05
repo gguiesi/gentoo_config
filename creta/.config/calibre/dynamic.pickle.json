@@ -1,0 +1,17 @@
+{
+  "add books dialog dir": "/home/gguiesi/Downloads",
+  "choose library location": "/home/gguiesi/Documents/ebooks/data sciency",
+  "database location dialog": "/home/gguiesi/Documents/ebooks",
+  "sort_history": [
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_device": "kindle",
+  "welcome_wizard_was_run": true
+}

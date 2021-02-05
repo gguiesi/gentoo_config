@@ -1,0 +1,6 @@
+2020/11/28-10:33:25.902 20ec Reusing MANIFEST /home/gguiesi/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2020/11/28-10:33:25.903 20ec Recovering log #12
+2020/11/28-10:33:25.903 20ec Reusing old log /home/gguiesi/.config/skypeforlinux/Local Storage/leveldb/000012.log 
+2020/11/28-10:45:00.198 2284 Level-0 table #16: started
+2020/11/28-10:45:00.206 2284 Level-0 table #16: 67605 bytes OK
+2020/11/28-10:45:00.209 2284 Delete type=0 #12

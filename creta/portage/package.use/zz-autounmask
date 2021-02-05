@@ -1,0 +1,43 @@
+# package.use# required by media-sound/pulseaudio-13.0::gentoo[alsa,alsa-plugin]
+# required by www-client/firefox-bin-79.0::gentoo[pulseaudio]
+# required by www-client/firefox-bin (argument)
+>=media-plugins/alsa-plugins-1.2.2 pulseaudio
+# required by app-text/calibre-4.22.0::gentoo
+# required by app-text/calibre (argument)
+>=app-text/poppler-0.90.1 qt5
+# required by dev-qt/qtwebengine-5.14.2::gentoo
+# required by dev-python/PyQtWebEngine-5.14.0::gentoo
+# required by app-text/calibre-4.22.0::gentoo[python_single_target_python3_7]
+# required by app-text/calibre (argument)
+>=dev-qt/qtwebchannel-5.14.2 qml
+# required by dev-qt/qtwebengine-5.14.2::gentoo
+# required by dev-python/PyQtWebEngine-5.14.0::gentoo
+# required by app-text/calibre-4.22.0::gentoo[python_single_target_python3_7]
+# required by app-text/calibre (argument)
+>=sys-libs/zlib-1.2.11-r2 minizip
+# required by dev-python/PyQtWebEngine-5.14.0::gentoo
+# required by app-text/calibre-4.22.0::gentoo[python_single_target_python3_7]
+# required by app-text/calibre (argument)
+>=dev-python/PyQt5-5.14.2-r1 webchannel
+# required by dev-python/PyQtWebEngine-5.14.0::gentoo
+# required by app-text/calibre-4.22.0::gentoo[python_single_target_python3_7]
+# required by app-text/calibre (argument)
+>=dev-qt/qtwebengine-5.14.2 widgets
+# required by dev-python/PyQt5-5.14.2-r1::gentoo[multimedia]
+# required by dev-python/PyQtWebEngine-5.14.0::gentoo
+# required by app-text/calibre-4.22.0::gentoo[python_single_target_python3_7]
+# required by app-text/calibre (argument)
+>=dev-qt/qtmultimedia-5.14.2-r1 widgets
+# required by www-client/chromium-85.0.4183.83::gentoo
+# required by www-client/chromium (argument)
+>=net-libs/nodejs-14.4.0 inspector
+# required by x11-misc/barrier-2.3.3::gentoo[gui]
+# required by x11-misc/barrier (argument)
+>=net-dns/avahi-0.8-r2 mdnsresponder-compat
+# required by x11-misc/urxvtconfig-1.0-r1::gentoo
+# required by urxvtconfig (argument)
+>=x11-terms/rxvt-unicode-9.22-r3 xft
+# required by sys-apps/flatpak-1.10.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-util/ostree-2020.8 curl
