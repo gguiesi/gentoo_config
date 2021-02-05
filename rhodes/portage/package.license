@@ -1,0 +1,12 @@
+# required by sys-kernel/linux-firmware (argument)
+=sys-kernel/linux-firmware-20201218 linux-fw-redistributable no-source-code
+# required by b43-firmware (argument)
+=sys-firmware/b43-firmware-5.100.138 Broadcom
+# required by x11-base/xorg-x11-7.4-r3::gentoo[fonts]
+# required by xorg-x11 (argument)
+>=media-fonts/font-bh-ttf-1.0.3-r2 bh-luxi
+# required by x11-base/xorg-x11-7.4-r3::gentoo[fonts]
+# required by xorg-x11 (argument)
+>=media-fonts/font-bh-type1-1.0.3-r2 bh-luxi
+# required by sys-firmware/nvidia-firmware (argument)
+>=sys-firmware/nvidia-firmware-340.32-r1 NVIDIA-r2

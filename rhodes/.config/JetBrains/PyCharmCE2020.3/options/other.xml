@@ -1,0 +1,35 @@
+<application>
+  <component name="ProjectPluginTrackerManager">
+    <option name="trackers">
+      <map>
+        <entry key="1nqWybksz19GCCGp8SoCFNCSPVt">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/sources/python/selenium" />
+    <property name="file.gist.reindex.count" value="5432" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="PC-203.5981.165" />
+    <property name="lastSeenTip" value="neue-WildcardsInNavigationPopups.html" />
+    <property name="lastTimeTipsWereShown" value="1612391394280" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/sources/python/selenium" />
+    <property name="seenTips" value="neue-CommentCode.html,neue-WildcardsInNavigationPopups.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

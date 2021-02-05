@@ -1,0 +1,14 @@
+[Default Applications]
+x-scheme-handler/http=userapp-Pale Moon-QCN7X0.desktop
+x-scheme-handler/https=userapp-Pale Moon-QCN7X0.desktop
+x-scheme-handler/ftp=userapp-Pale Moon-QCN7X0.desktop
+x-scheme-handler/chrome=userapp-Pale Moon-QCN7X0.desktop
+text/html=userapp-Pale Moon-QCN7X0.desktop
+application/x-extension-htm=userapp-Pale Moon-QCN7X0.desktop
+application/x-extension-html=userapp-Pale Moon-QCN7X0.desktop
+application/x-extension-shtml=userapp-Pale Moon-QCN7X0.desktop
+application/xhtml+xml=userapp-Pale Moon-QCN7X0.desktop
+application/x-extension-xhtml=userapp-Pale Moon-QCN7X0.desktop
+application/x-extension-xht=userapp-Pale Moon-QCN7X0.desktop
+
+[Added Associations]

@@ -1,0 +1,9 @@
+x11-base/xorg-server suid
+# required by sys-apps/flatpak-1.10.0::gentoo
+# required by sys-apps/flatpak (argument)
+>=dev-util/ostree-2020.8 curl
+# required by gnome-base/gnome-keyring-3.36.0::gentoo
+# required by app-crypt/libsecret-0.20.4::gentoo
+# required by app-editors/atom-bin-1.54.0::jorgicio
+# required by app-editors/atom-bin (argument)
+>=app-crypt/pinentry-1.1.1 gnome-keyring
